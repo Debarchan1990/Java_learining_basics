@@ -11,7 +11,7 @@ public class Hello {
 
     static void myMethod(String name, int age, String gender)
     {
-        System.out.println("My name is: " + name+ ",My Age is :" +age +"My gender is :" +gender);
+        System.out.println("My name is: " + name+ ",My age is updated :" +age +"My gender is :" +gender);
     }
     public static void main (String[] args){
 
